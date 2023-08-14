@@ -7,6 +7,9 @@ Bem vindos!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=professorisidro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorisidro&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=professorisidro)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **professorisidro/professorisidro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
